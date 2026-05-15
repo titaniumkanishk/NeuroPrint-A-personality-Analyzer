@@ -1,6 +1,6 @@
 # NeuroPrint — Advanced Psycholinguistic Behavioral Intelligence System
 
-#### Video Demo:  <PASTE YOUR VIDEO URL HERE>
+#### Video Demo:  <https://youtu.be/b85Zb9u2dnU>
 
 #### Description:
 
@@ -26,7 +26,7 @@ The `requirements.txt` file contains the external Python libraries required to r
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/titaniumkanishk/NeuroPrint-A-personality-Analyzer.git
 ```
 
 ### 2. Move into the Project Folder
